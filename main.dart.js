@@ -102625,7 +102625,7 @@ avG(a7,a8,a9,b0,b1,b2,b3,b4,b5,b6,b7,b8,b9,c0,c1,c2,c3){var s=0,r=A.P(t.H),q=thi
 var $async$lw=A.Q(function(c4,c5){if(c4===1)return A.M(c5,r)
 while(true)switch(s){case 0:a6=A
 s=2
-return A.S($.p7().iF(0,"images/warranty1.jpg"),$async$lw)
+return A.S($.p7().iF(0,"assets/images/warranty1.jpg"),$async$lw)
 case 2:a=a6.cp(c5.buffer,0,null)
 a0=$.a6()
 s=4
