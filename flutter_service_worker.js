@@ -53,15 +53,16 @@ const RESOURCES = {"assets/AssetManifest.bin": "0394dcbc0a4c1f0f8019483650cf36ff
 "canvaskit/skwasm.worker.js": "bfb704a6c714a75da9ef320991e88b03",
 "favicon.png": "0c3a140f7605ec3efb3bf6dafe811bdc",
 "flutter.js": "59a12ab9d00ae8f8096fffc417b6e84f",
+"functions/proxy.js": "ca1093f0441727e926c7739dd7884e21",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "2bed62e253be4a9a2b8c2a96a41cef76",
-"/": "2bed62e253be4a9a2b8c2a96a41cef76",
-"main.dart.js": "cf3a8a38ddf857c9cf1919a6f7837318",
+"index.html": "767198468dbdc966026ddf548a73dca7",
+"/": "767198468dbdc966026ddf548a73dca7",
+"main.dart.js": "4a0fbc3d5687d1bf27fe54701ca3a437",
 "manifest.json": "5897678ce1a5326602349742e1cd143a",
-"netlify.toml": "872be07799f28fde01b994658b0083a6",
+"netlify.toml": "654c2185f818a25bf1ea23a09b5e14b6",
 "version.json": "d491dca405bf7fe559194bd348106196"};
 // The application shell files that are downloaded before a service worker can
 // start.
