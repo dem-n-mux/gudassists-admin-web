@@ -112917,7 +112917,7 @@ B.f4.gvr().bT(b)
 a1=t.N
 a0=A.ab(["file","data:image/png;base64,"+a0,"filename","certificate.png"],a1,a1)
 k=t.m0
-o=A.ab(["attachments",A.a([a0,A.ab(["file",b0==="AMC"?a3:a5,"filename","certificate2.png"],a1,a1)],k),"recipients",A.a([A.ab(["to",A.a([A.ab(["name","Customer","email",a9],a1,a1)],k)],a1,t.xW)],t.Ud),"integration_id","137","template_id","pdfsend"],a1,t.z)
+o=A.ab(["attachments",A.a([a0,A.ab(["file",b0==="AMC"?a3:a5,"filename","certificate2.png"],a1,a1)],k),"recipients",A.a([A.ab(["to",A.a([A.ab(["name","Customer","email",a9],a1,a1)],k)],a1,t.xW)],t.Ud),"integration_id","164","template_id","pdfsend"],a1,t.z)
 q=6
 s=9
 return A.x(A.bxu(A.jQ("https://gudassists-admin.netlify.app/api/v5/email/send",0,null),B.c1.a4B(o,null),B.a4s),$async$ql)
