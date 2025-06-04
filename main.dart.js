@@ -110404,7 +110404,7 @@ s=1
 break
 s=7
 break
-case 8:s=k==="admin@gmail.com"&&o==="12345678"?9:11
+case 8:s=k==="admin@gudassist.com"&&o==="Gudassist@8295"?9:11
 break
 case 9:s=12
 return A.x(A.BF(),$async$y7)
@@ -110418,7 +110418,7 @@ A.b0E(l,A.In(new A.aOl(),null,t.z),new A.aOm())
 A.cv("Login Successful")
 s=10
 break
-case 11:s=k==="subadmin@gmail.com"&&o==="12345678"?13:15
+case 11:s=k==="subadmin@gudassist.com"&&o==="Subadmin@111"?13:15
 break
 case 13:$.b37=!0
 s=16
